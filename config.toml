@@ -22,6 +22,7 @@ merge-integrations = true
 rip-libs = true
 
 [Music-arm64]
+enabled = false
 build-mode = "both"
 app-name = "Music"
 excluded-patches = ""
@@ -33,6 +34,7 @@ module-prop-name = "ytmusicrv-magisk"
 arch = "arm64-v8a"
 
 [Music-arm]
+enabled = false
 build-mode = "both"
 app-name = "Music"
 excluded-patches = ""
@@ -44,23 +46,27 @@ module-prop-name = "ytmusicrv-arm-magisk"
 arch = "arm-v7a"
 
 [Twitter]
+enabled = false
 build-mode = "apk"
 excluded-patches = ""
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Reddit]
+enabled = false
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 
 [Twitch]
+enabled = false
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 merge-integrations = true
 
 [Tiktok]
+enabled = false
 build-mode = "apk"
 version = "27.2.5"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
@@ -84,7 +90,7 @@ build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/deutscher-wetterdienst/warnwetter/"
 
 [Backdrops]
-enabled = true
+enabled = false
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
