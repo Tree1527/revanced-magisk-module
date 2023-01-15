@@ -1,13 +1,13 @@
 CLI: revanced-cli-2.20.0-all.jar  
-Integrations: revanced-integrations-0.92.2-v0.92.2.apk  
-Patches: revanced-patches-2.153.0.jar  
+Integrations: revanced-integrations-0.93.0-v0.93.0.apk  
+Patches: revanced-patches-2.155.0.jar  
 
-### [2.153.0](https://github.com/revanced/revanced-patches/compare/v2.152.0...v2.153.0) (2023-01-07)
+### [2.155.0](https://github.com/revanced/revanced-patches/compare/v2.154.0...v2.155.0) (2023-01-15)
 ### Bug Fixes
-* **youtube/general-ads:** move settings to correct preference screens ([cde45fc](https://github.com/revanced/revanced-patches/commit/cde45fca769eddea64072f13f836d46560a4a89a))
+* bump patcher dependency version ([a5d16d7](https://github.com/revanced/revanced-patches/commit/a5d16d7a22168b519180684e0efa3b0450915d7b))
+* **youtube/open-links-directly:** use better titles and correct descriptions ([#1488](https://github.com/revanced/revanced-patches/issues/1488)) ([2874bbe](https://github.com/revanced/revanced-patches/commit/2874bbef154d28e56b5928048a255409a956a012))
 ### Features
-* **youtube/remember-video-quality:** simplify settings switch state description ([9bd42ec](https://github.com/revanced/revanced-patches/commit/9bd42ec1a1b54b103cd2550211515acdaf90e9de))
-* **youtube:** `remember-playback-rate` patch ([177e908](https://github.com/revanced/revanced-patches/commit/177e908dba260f184a2835b73b834563ca9c29fd))
+* **youtube:** remove `fix-playback` patch ([edcb6cc](https://github.com/revanced/revanced-patches/commit/edcb6cc94961aaebe2df884db3049b2afa79f38f))
 
   
 **App Versions:**  
