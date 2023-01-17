@@ -90,7 +90,7 @@ build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/deutscher-wetterdienst/warnwetter/"
 
 [Backdrops]
-enabled = false
+enabled = true
 build-mode = "apk"
 version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
