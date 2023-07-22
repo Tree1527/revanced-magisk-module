@@ -1,14 +1,14 @@
 YouTube: 18.23.35  
 YouTube-Extended: 18.25.40  
-Music (arm64-v8a): 6.10.51  
-Music-Extended (arm64-v8a): 6.10.51  
+Music (arm64-v8a): 6.11.52  
+Music-Extended (arm64-v8a): 6.11.52   
 Twitch: 15.4.1  
-Twitter: 9.71.0-release.0  
-Reddit: 2023.27.0  
+Twitter: 9.98.0-release.0  
+Reddit: 2023.28.0  
 Spotify: 8.8.50.466  
 Backdrops: 4.52  
-TickTick: 6.6.6.0  
-Tasker: 6.1.33  
+TickTick: 6.6.7.3  
+Tasker: 6.2.9-rc  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -16,6 +16,30 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
+CLI: j-hc/revanced-cli-2.23.0-all.jar  
+Integrations: ReVanced/revanced-integrations-0.114.0.apk  
+Patches: ReVanced/revanced-patches-2.186.0.jar  
+
+### [2.186.0](https://github.com/ReVanced/revanced-patches/compare/v2.185.0...v2.186.0) (2023-07-21)
+
+
+### Bug Fixes
+
+* **Tiktok - Settings:** get instruction registers dynamically ([#2676](https://github.com/ReVanced/revanced-patches/issues/2676)) ([b34e45b](https://github.com/ReVanced/revanced-patches/commit/b34e45b6dafad8e9d567ad65f58a182b8cc04676))
+* **YouTube - Spoof app version:** update target app version description ([#2666](https://github.com/ReVanced/revanced-patches/issues/2666)) ([307442e](https://github.com/ReVanced/revanced-patches/commit/307442e654ff5486656319d91e4a5f5fb2b92651))
+* **YouTube - Theme:** allow setting no background color ([8a4e77a](https://github.com/ReVanced/revanced-patches/commit/8a4e77a290a61a1caf93eb8bccaf728c84a3ef53))
+* **YouTube - Theme:** apply custom seekbar color to shorts ([#2670](https://github.com/ReVanced/revanced-patches/issues/2670)) ([1f6fe3d](https://github.com/ReVanced/revanced-patches/commit/1f6fe3da4284fd768057ef068c7ddf88d3a11049))
+
+
+### Features
+
+* **Twitter:** remove `Hide view stats` patch ([f0d3800](https://github.com/ReVanced/revanced-patches/commit/f0d38001b34db63f212209afb91eebf59dad2b24))
+* **Youtube - Theme:** add a switch to enable/disable custom seekbar color ([#2663](https://github.com/ReVanced/revanced-patches/issues/2663)) ([5c39985](https://github.com/ReVanced/revanced-patches/commit/5c39985888cdfe3acfdd8811ff9b6f80e243704e))
+
+
+
+
+---
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
 Integrations: inotia00/revanced-integrations-0.112.3.apk  
 Patches: inotia00/revanced-patches-2.184.3.jar  
@@ -52,13 +76,4 @@ Etc
 [Crowdin translation]
 - [European Countries](https://crowdin.com/project/revancedextendedeu)
 - [Other Countries](https://crowdin.com/project/revancedextended)
----
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.112.0.apk  
-Patches: ReVanced/revanced-patches-2.184.0.jar  
-
-### [2.184.0](https://github.com/revanced/revanced-patches/compare/v2.183.1...v2.184.0) (2023-07-11)
-### Features
-* **youtube/custom-branding:** update logo ([e2187f3](https://github.com/revanced/revanced-patches/commit/e2187f33ff82fce40592517aef31cb191b42987c))
-
 ---  
