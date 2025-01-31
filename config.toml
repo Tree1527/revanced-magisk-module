@@ -11,6 +11,7 @@ build-mode = "both"
 arch = "both"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+apkmirror-dpi = "360-480dpi"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
 
