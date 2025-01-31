@@ -15,6 +15,6 @@ included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.a
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [TikTok]
-enabled = true
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+enabled = false
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
