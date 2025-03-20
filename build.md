@@ -1,3 +1,5 @@
+GooglePhotos (arm64-v8a): 7.21.0.737764319  
+GooglePhotos (arm-v7a): 7.21.0.737764319  
 TikTok: 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
