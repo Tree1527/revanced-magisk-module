@@ -25,3 +25,4 @@ included-patches = "'SIM spoof'"
 [Spotify]
 enabled = true
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+included-patches = "'Unlock premium' 'Spoof signature'"
