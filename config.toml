@@ -16,7 +16,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
 
 [TikTok]
-enabled = true
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
