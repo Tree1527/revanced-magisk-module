@@ -1,6 +1,6 @@
 {
-  "version": "v7.53.0.827222094 (patches 5.46.0)",
-  "versionCode": 77,
-  "zipUrl": "https://github.com/Tree1527/revanced-magisk-module/releases/download/77/googlephotos-revanced-magisk-v7.53.0.827222094-arm-v7a.zip",
+  "version": "v7.55.0.835314738 (patches 5.46.0)",
+  "versionCode": 78,
+  "zipUrl": "https://github.com/Tree1527/revanced-magisk-module/releases/download/78/googlephotos-revanced-magisk-v7.55.0.835314738-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Tree1527/revanced-magisk-module/update/build.md"
 }
